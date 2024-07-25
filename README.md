@@ -40,7 +40,7 @@ Crea una página con un título (h1) "Mi galería de arte" y una lista desordena
 
 ### Ejercicio # 3: Imagen con enlace (Descarga las imagenes, guardalas en tu proyecto y usalas)
 Diseña una página sobre tu destino de viaje favorito. Incluye un título (h1), un párrafo de descripción (p), y una imagen del lugar. La imagen debe ser un enlace que, al hacer clic, abra la página de Wikipedia del destino en una nueva pestaña.
-  
+
 >> Pista: Envuelve la etiqueta `<img>` dentro de una etiqueta `<a>` que se convertirá en un container mágico que va a redirigir a una nueva pestaña.
 
 ### Ejercicio # 4: Página de receta con imágenes (Descarga las imagenes, guardalas en tu proyecto y usalas)
@@ -69,7 +69,6 @@ Diseña una página de portafolio con:
 >> Pista: Usa id en las secciones de proyectos para los enlaces internos del menú para acceder a cada uno de ellos tal como lo hiciste en los ejercicios de Anchors.
  
 ## Puedes usar este sitio web https://unsplash.com/es para descargar imagenes
-
 
 **¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
 
