@@ -30,20 +30,20 @@ Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados 
 
 ## Lista de Ejercicios
 
-### Ejercicio # 1: Imagen simple
+### Ejercicio # 1: Imagen simple (Agrega la imagen con la url de internet)
 Crea una página HTML con un título (h1) "Mi mascota favorita" y añade una imagen de un animal debajo. Asegúrate de incluir un texto alternativo descriptivo.
 
-### Ejercicio # 2: Galería de imágenes
+### Ejercicio # 2: Galería de imágenes (Agrega las imagenes con la url de internet)
 Crea una página con un título (h1) "Mi galería de arte" y una lista desordenada (ul) que contenga 3 imágenes de obras de arte. Cada elemento de la lista debe tener un subtítulo (h3) con el nombre de la obra y la imagen correspondiente.
 
 >> Pista: Utiliza `<li>` para cada elemento de la lista. `<li>` servirá como un contenedor para agregar la extructura texto/imagen dada por el ejercicio. Recuerda incluir el atributo alt en cada imagen.
 
-### Ejercicio # 3: Imagen con enlace
+### Ejercicio # 3: Imagen con enlace (Descarga las imagenes, guardalas en tu proyecto y usalas)
 Diseña una página sobre tu destino de viaje favorito. Incluye un título (h1), un párrafo de descripción (p), y una imagen del lugar. La imagen debe ser un enlace que, al hacer clic, abra la página de Wikipedia del destino en una nueva pestaña.
   
 >> Pista: Envuelve la etiqueta `<img>` dentro de una etiqueta `<a>` que se convertirá en un container mágico que va a redirigir a una nueva pestaña.
 
-### Ejercicio # 4: Página de receta con imágenes
+### Ejercicio # 4: Página de receta con imágenes (Descarga las imagenes, guardalas en tu proyecto y usalas)
 Crea una página para una receta que incluya:
 
 * Un título principal (h1) con el nombre de la receta
@@ -51,7 +51,7 @@ Crea una página para una receta que incluya:
 * Una lista ordenada (ol) de ingredientes
 * Una lista desordenada (ul) de pasos de preparación, donde cada paso tenga una pequeña imagen ilustrativa
     
-### Ejercicio # 5: Portafolio de proyectos
+### Ejercicio # 5: Portafolio de proyectos (Descarga las imagenes, guardalas en tu proyecto y usalas)
 Diseña una página de portafolio con:
 
 * Un título principal (h1) "Mi Portafolio"
