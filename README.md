@@ -67,6 +67,9 @@ Diseña una página de portafolio con:
 * Una imagen de perfil tuya al final de la página, con un enlace que lleva a tu correo electrónico
 
 >> Pista: Usa id en las secciones de proyectos para los enlaces internos del menú para acceder a cada uno de ellos tal como lo hiciste en los ejercicios de Anchors.
+ 
+## puedes usar este sitio web https://unsplash.com/es para descargar imagenes
+
 
 **¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
 
