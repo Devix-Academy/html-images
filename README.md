@@ -36,12 +36,12 @@ Crea una página HTML con un título (h1) "Mi mascota favorita" y añade una ima
 ### Ejercicio # 2: Galería de imágenes (Agrega las imagenes con la url de internet)
 Crea una página con un título (h1) "Mi galería de arte" y una lista desordenada (ul) que contenga 3 imágenes de obras de arte. Cada elemento de la lista debe tener un subtítulo (h3) con el nombre de la obra y la imagen correspondiente.
 
->> Pista: Utiliza `<li>` para cada elemento de la lista. `<li>` servirá como un contenedor para agregar la extructura texto/imagen dada por el ejercicio. Recuerda incluir el atributo alt en cada imagen.
+> Pista: Utiliza `<li>` para cada elemento de la lista. `<li>` servirá como un contenedor para agregar la extructura texto/imagen dada por el ejercicio. Recuerda incluir el atributo alt en cada imagen.
 
 ### Ejercicio # 3: Imagen con enlace (Descarga las imagenes, guardalas en tu proyecto y usalas)
 Diseña una página sobre tu destino de viaje favorito. Incluye un título (h1), un párrafo de descripción (p), y una imagen del lugar. La imagen debe ser un enlace que, al hacer clic, abra la página de Wikipedia del destino en una nueva pestaña.
 
->> Pista: Envuelve la etiqueta `<img>` dentro de una etiqueta `<a>` que se convertirá en un container mágico que va a redirigir a una nueva pestaña.
+> Pista: Envuelve la etiqueta `<img>` dentro de una etiqueta `<a>` que se convertirá en un container mágico que va a redirigir a una nueva pestaña.
 
 ### Ejercicio # 4: Página de receta con imágenes (Descarga las imagenes, guardalas en tu proyecto y usalas)
 Crea una página para una receta que incluya:
@@ -66,7 +66,7 @@ Diseña una página de portafolio con:
 
 * Una imagen de perfil tuya al final de la página, con un enlace que lleva a tu correo electrónico
 
->> Pista: Usa id en las secciones de proyectos para los enlaces internos del menú para acceder a cada uno de ellos tal como lo hiciste en los ejercicios de Anchors.
+> Pista: Usa id en las secciones de proyectos para los enlaces internos del menú para acceder a cada uno de ellos tal como lo hiciste en los ejercicios de Anchors.
  
 ## Puedes usar este sitio web https://unsplash.com/es para descargar imagenes
 
